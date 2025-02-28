@@ -1,0 +1,5 @@
+vcpkg.json
+x64/
+vcpkg_installed/
+.vs/
+.git/
